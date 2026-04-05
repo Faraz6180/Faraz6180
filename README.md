@@ -1,17 +1,14 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Faraz%20Mubeen%20Haider&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%E2%80%A2%20Production%20Systems%20%E2%80%A2%20Fast%20Shipper&descAlignY=55&descSize=16" width="100%"/>
 
-<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+AI+That+Solves+Real+Problems;17%2B+International+Hackathons+%F0%9F%8F%86;115%2B+Technical+Articles+on+Medium;Harvard+CS50x+2025+Champion+%F0%9F%8E%93;Stanford+Code+In+Place+Section+Leader" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+AI+That+Solves+Real+Problems;17%2B+International+Hackathons+%F0%9F%8F%86;115%2B+Technical+Articles+on+Medium;Stanford+Code+In+Place+Section+Leader" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Status badges -->
-[![Open to Work](https://img.shields.io/badge/%F0%9F%9A%80_Actively_Looking-Immediate_Start-success?style=for-the-badge)](mailto:faraz.outreach8@gmail.com)
+[![Open to Work](https://img.shields.io/badge/%F0%9F%9A%80_Actively_Looking-August_2026-success?style=for-the-badge)](mailto:faraz.outreach8@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Projects-blue?style=for-the-badge&logo=vercel)](https://faraz-mubeen.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fm618)
 [![Medium](https://img.shields.io/badge/Medium-115+_Articles-black?style=for-the-badge&logo=medium)](https://medium.com/@farazmubeen902)
@@ -27,7 +24,7 @@
 
 | ✅ **Production Systems** | ✅ **Speed Under Pressure** | ✅ **Clear Communication** |
 |:---:|:---:|:---:|
-| 50,000+ daily transactions, 94% accuracy | 17+ hackathons, 48–72hr prototypes | 115+ technical articles, 1,500+ monthly readers |
+| RAG pipelines, LLM APIs, ML inference deployed | 17+ hackathons, 48–72hr prototypes | 115+ technical articles, 1,500+ monthly readers |
 
 ---
 
@@ -37,27 +34,27 @@
 <tr>
 <td width="50%">
 
+### 🎓 Stanford Code In Place — Section Leader
+**Selected top 100 from 900+ global applicants**
+Taught Python to international students · Improved completion rates by **25%** · Rating **4.8/5.0**
+
 ### 🥇 Harvard CS50x Puzzle Day 2025
-**Perfect 9/9 score** — Beat 1,000+ global participants  
+**Perfect 9/9 score** — Beat 1,000+ global participants
 *Proves: Complex problem solving under time pressure*
 
-### 🎓 Stanford Code In Place — Section Leader
-**1 of 900** selected from 10,000+ applicants  
-Improved student completion rates by **25%** | Rating **4.8/5.0**
-
 ### 🏆 UC Berkeley CALICO — Top 12%
-**96th / 820 teams** globally (48 countries, 1,816 contestants)  
+**96th / 820 teams** globally (48 countries, 1,816 contestants)
 Solved **9/12** algorithmic problems in 3-hour time limit
 
 </td>
 <td width="50%">
 
 ### 🚀 17+ International AI Hackathons
-IBM Granite Winner · DeepSeek Finalist · Replit x Cursor Finalist  
+IBM Granite Winner · DeepSeek Finalist · Replit x Cursor Finalist
 *Proves: I ship production-ready prototypes fast*
 
-### 💰 AWS Activate — $150K Credits
-Selected for cloud startup program  
+### ☁️ AWS Activate — $150K Credits
+Selected for cloud startup program
 *Proves: Trusted by AWS to build scalable AI*
 
 ### 📈 Elite Program Selection
@@ -76,19 +73,19 @@ Selected for cloud startup program
 <td width="50%">
 
 ### 🛡️ [SerisAI — Fraud Detection System](https://faraz-mubeen.vercel.app/)
-Real-time ML fraud detection & prevention  
-- **94% accuracy** in fraud detection  
-- **50,000+ daily transactions** processed  
-- Stack: `Python` `FastAPI` `PostgreSQL` `OpenAI API` `AWS Lambda`  
+Real-time ML fraud detection & prevention
+- **94% accuracy** in fraud detection
+- **50,000+ daily transactions** processed
+- Stack: `Python` `FastAPI` `PostgreSQL` `OpenAI API` `AWS Lambda`
 - **Status:** ✅ In Production
 
 </td>
 <td width="50%">
 
 ### 🤖 [DevAI — AI Debugging Assistant](https://lablab.ai/event/fall-in-love-with-deepseek/dev-ai/devai-leveraging-ai-in-development-workflow)
-Context-aware code analysis & automatic fix suggestions  
-- Reduced bug-fixing time by **40%**  
-- Stack: `LangChain` `OpenAI` `FastAPI` `VS Code API`  
+Context-aware code analysis & automatic fix suggestions
+- Reduced bug-fixing time by **40%**
+- Stack: `LangChain` `OpenAI` `FastAPI` `VS Code API`
 - 🏆 DeepSeek Hackathon Finalist
 
 </td>
@@ -97,19 +94,19 @@ Context-aware code analysis & automatic fix suggestions
 <td width="50%">
 
 ### 🔬 [Aptimi — AI Research Assistant](https://lablab.ai/event/replit-and-cursor-hackathon/byte-busters/aptimi-your-productivity-partner)
-Semantic search over 1M+ academic papers  
-- Cut research time by **80%**  
-- Stack: `Python` `LangChain` `FAISS` `Streamlit`  
+Semantic search over 1M+ academic papers
+- Cut research time by **80%**
+- Stack: `Python` `LangChain` `FAISS` `Streamlit`
 - 🏆 Replit x Cursor Hackathon Finalist
 
 </td>
 <td width="50%">
 
-### 📊 [Customer Churn Prediction (BCG X)](https://faraz-mubeen.vercel.app/)
-Predictive ML for energy company retention  
-- **85% accuracy**, identified 15% high-risk customers  
-- **$2M+ revenue** saved in retention strategies  
-- Stack: `Python` `Scikit-Learn` `Random Forest` `Tableau`
+### 📊 [ChurnGuard — Customer Analytics](https://github.com/Faraz6180/ANN-Classification-Churn)
+Predictive ML for customer retention
+- **92% accuracy** churn prediction
+- Enables targeted intervention strategies
+- Stack: `PyTorch` `Scikit-Learn` `Streamlit`
 
 </td>
 </tr>
@@ -173,11 +170,9 @@ Predictive ML for energy company retention
 
 ## 📝 Latest Articles on Medium
 
-<!-- BLOG-POST-LIST:START -->
-- 📌 Building Production RAG Systems with LangChain — 500+ views
-- 📌 Fine-Tuning LLMs on a Budget: LoRA vs QLoRA — 350+ views  
-- 📌 How to Automate Customer Support with AI Agents — 400+ views
-<!-- BLOG-POST-LIST:END -->
+- 📌 Building Production RAG Systems with LangChain
+- 📌 Fine-Tuning LLMs on a Budget: LoRA vs QLoRA
+- 📌 How to Automate Customer Support with AI Agents
 
 ➡️ **[Read all 115+ articles on Medium →](https://medium.com/@farazmubeen902)**
 
@@ -185,7 +180,7 @@ Predictive ML for energy company retention
 
 ## 🎓 Education & Accelerators
 
-**B.S. Software Engineering** — National University of Modern Languages (NUML)
+**B.S. Software Engineering** — National University of Modern Languages (NUML) · Graduating July 2026
 
 | Program | Status |
 |---|---|
@@ -201,10 +196,10 @@ Predictive ML for energy company retention
 
 ## 💼 Open To
 
-**Full-Time:** AI/ML Engineer · Generative AI Developer · AI Solutions Architect · Founding Engineer  
-**Contract:** RAG Systems · LLM Fine-tuning · AI Agents · End-to-end ML Pipelines  
-**Location:** Remote-first (preferred) · Open to relocation (US, EU, SEA, Middle East)  
-**Availability:** ⚡ Immediate Start · Visa sponsorship welcome
+**Full-Time:** AI/ML Engineer · Generative AI Developer · AI Solutions Architect · Founding Engineer
+**Contract:** RAG Systems · LLM Fine-tuning · AI Agents · End-to-end ML Pipelines
+**Location:** UAE · Saudi Arabia · Qatar · Remote
+**Availability:** August 2026 · Visa sponsorship required
 
 ---
 
@@ -218,7 +213,7 @@ Predictive ML for energy company retention
 [![Hackathons](https://img.shields.io/badge/lablab.ai-17+_Hackathons-FF6B6B?style=for-the-badge)](https://lablab.ai/u/@Faraz_Mubeen)
 [![All Links](https://img.shields.io/badge/%F0%9F%94%97_All_Links-Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/farazmubeenhaider)
 
-**📍 Faisalabad, Pakistan · 🌍 Remote-first · ✈️ Open to Relocation**
+**📍 Faisalabad, Pakistan · 🌍 Open to UAE / Saudi Arabia · ✈️ Available August 2026**
 
 <br/>
 
