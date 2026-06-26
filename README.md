@@ -79,7 +79,7 @@ Production-oriented retrieval-augmented generation pipeline for document Q&A.
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Faraz6180&theme=tokyonight&hide_border=true)](https://github.com/Faraz6180)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Faraz6180&theme=tokyonight&hide_border=true&hide_current_streak=true)](https://github.com/Faraz6180)
 
 </div>
 
