@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Faraz%20Mubeen%20Haider&fontSize=34&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%E2%80%94%20RAG%20Systems%20%C2%B7%20LLM%20Backends%20%C2%B7%20Production%20ML&descAlignY=58&descSize=14" width="100%"/>
 
-**Solo-shipped a 12-week SaaS MVP with zero production incidents · Built ETL + ML infra used by 30+ startups · 17+ hackathons, 1 win**
-
 [![Email](https://img.shields.io/badge/Email-faraz.outreach8%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:faraz.outreach8@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fm618-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fm618)
 [![Portfolio](https://img.shields.io/badge/Portfolio-live_projects-000000?style=flat-square&logo=vercel&logoColor=white)](https://faraz-mubeen.vercel.app/)
@@ -55,15 +53,20 @@ Built the data and inference infrastructure behind reporting for 30+ portfolio s
 
 ## Projects
 
+Pulled directly from [github.com/Faraz6180](https://github.com/Faraz6180?tab=repositories) — most active and most distinct repos shown below.
+
 | Project | Problem Solved | Tech | Production Signal | Link |
 |---|---|---|---|---|
-| **HireMind AI** | End-to-end job-search copilot: resume matching, ATS scoring, skill-gap detection, cover letters | LangChain, FastAPI | 8 integrated features, end-to-end pipeline | [Demo](https://huggingface.co/spaces/Faraz618/HireMind-AI) · [Code](https://github.com/Faraz6180/HireMind-AI) |
-| **AI Research Assistant** | Multi-source research synthesis instead of single-source search | LangChain agent, ArXiv/Wikipedia/web APIs | Parallel multi-source retrieval + synthesis | [Demo](https://ai-research-agent-nu.vercel.app) · [Code](https://github.com/Faraz6180/AI-powered-Research-Assistant) |
-| **LLM Document Summarizer** | Fast multi-style summarization (bullets / exec summary / plain English) | Groq inference, HF Spaces | Deployed, low-latency inference | [Demo](https://huggingface.co/spaces/Faraz618/ai-summarizer) · [Code](https://github.com/Faraz6180/llm-document-summarizer) |
-| **Aptimi** 🏆 | Semantic search over academic papers | Hybrid dense + BM25 retrieval | **+31% answer relevance** vs. single-vector baseline · Hackathon Finalist | [lablab](https://lablab.ai/event/replit-and-cursor-hackathon/byte-busters/aptimi-your-productivity-partner) |
-| **DevAI** 🏆 | Debugging assistant with context-aware fix suggestions | Code analysis + auto-fix | **−40% bug-fixing time** · Hackathon Finalist | [lablab](https://lablab.ai/event/fall-in-love-with-deepseek/dev-ai/devai-leveraging-ai-in-development-workflow) |
+| **InsightPilot AI** | Extracts structured insights, risks, and recommendations from PDFs | RAG (FAISS + Sentence Transformers), Groq LLM | Most recently active repo | [Demo](https://huggingface.co/spaces/Faraz618/Insightpilot-ai) · [Code](https://github.com/Faraz6180/Insightpilot-ai) |
+| **Enterprise RAG System** | Production-oriented document Q&A pipeline | FAISS retrieval, Groq LLM, **Langfuse observability**, custom eval metrics | Only repo with observability tooling attached | [Code](https://github.com/Faraz6180/Enterprise-rag-system) |
+| **VisualRAG** | Multi-modal retrieval — ask natural-language questions about a set of images | YOLOv8 (detection) + CLIP (embeddings) + FAISS + Zephyr-7B | Multi-model pipeline, not a single-API wrapper | [Code](https://github.com/Faraz6180/VisualRAG) |
+| **PDF-to-Audiobook AI** | Converts PDFs into audiobooks, summaries, and RAG-based Q&A | Hugging Face TTS + RAG | Multi-output pipeline from one input | [Demo](https://huggingface.co/spaces/Faraz618/pdf-to-audiobook-ai) · [Code](https://github.com/Faraz6180/pdf-to-audiobook-ai) |
+| **AI Research Assistant** | Multi-source research synthesis (ArXiv + Wikipedia + web) instead of single-source search | LangChain agent, Groq (Llama 3.3 70B) | Longest-maintained project (active since Feb 2025) | [Demo](https://ai-research-agent-nu.vercel.app) · [Code](https://github.com/Faraz6180/AI-powered-Research-Assistant) |
+| **DevAI** 🏆 | Debugging assistant with context-aware fix suggestions | Code analysis + auto-fix | Hackathon Finalist (lablab.ai) | [lablab](https://lablab.ai/event/fall-in-love-with-deepseek/dev-ai/devai-leveraging-ai-in-development-workflow) |
 
-→ **[17+ hackathons, full history on lablab.ai](https://lablab.ai/u/@Faraz_Mubeen)**
+<sub>Not shown here: `HireMind-AI`, `AI-Resume-Analyzer`, `TalentBridge-AI`, `opportunitypilot-ai`, `AutoApply-AI`, `autoapply-ai-agentic` — six repos solving the same "AI resume/job-matching" problem. Worth merging into one before a hiring manager scrolls the full repo list.</sub>
+
+→ **[Full hackathon history on lablab.ai](https://lablab.ai/u/@Faraz_Mubeen)**
 
 <br>
 
