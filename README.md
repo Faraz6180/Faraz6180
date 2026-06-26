@@ -30,7 +30,7 @@ Selected top 100 of 900+ global applicants. Taught Python and led structured cod
 
 ---
 
-## 🏆PProjects & Hackathons
+## 🏆Projects & Hackathons
 
 | Project | What it does | Result | Live Demo |
 |---|---|---|---|
