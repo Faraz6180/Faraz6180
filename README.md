@@ -30,19 +30,7 @@ Selected top 100 of 900+ global applicants. Taught Python and led structured cod
 
 ---
 
-## 🔬 Flagship Project
-
-### [Enterprise RAG System](https://github.com/Faraz6180/Enterprise-rag-system)
-Production-oriented retrieval-augmented generation pipeline for document Q&A.
-- PDF ingestion → chunking → FAISS retrieval → grounded generation via Groq (Llama 3.1)
-- Three custom evaluation metrics (faithfulness, answer relevance, context precision) — no LLM-judge cost
-- Langfuse observability tracking latency, token usage, and traces per query
-- Stack: `Python` `FastAPI/Gradio` `FAISS` `Langfuse` `Groq`
-- 🔗 **[Live Demo](https://huggingface.co/spaces/Faraz618/enterprise-rag-system)**
-
----
-
-## 🏆 Additional Projects & Hackathons
+## 🏆PProjects & Hackathons
 
 | Project | What it does | Result | Live Demo |
 |---|---|---|---|
