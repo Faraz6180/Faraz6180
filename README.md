@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Open to Work](https://img.shields.io/badge/%F0%9F%9A%80_Actively_Looking-August_2026-success?style=for-the-badge)](mailto:faraz.outreach8@gmail.com)
+[![Open to Work](https://img.shields.io/badge/%F0%9F%9A%80_Available_Now-Remote_Worldwide-success?style=for-the-badge)](mailto:faraz.outreach8@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Projects-blue?style=for-the-badge&logo=vercel)](https://faraz-mubeen.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fm618)
 [![Medium](https://img.shields.io/badge/Medium-115+_Articles-black?style=for-the-badge&logo=medium)](https://medium.com/@farazmubeen902)
@@ -20,7 +20,7 @@
 
 ## 🎯 30-Second Pitch
 
-> I'm an **AI/ML Engineer** who builds production systems, explains AI clearly, and ships fast. I don't just build models — I build AI solutions that solve real business problems.
+> I'm an **AI Engineer** who builds production LLM/RAG systems, explains AI clearly, and ships fast. I don't just build models — I build AI solutions that solve real business problems. **Fully remote, available now.**
 
 | ✅ **Production Systems** | ✅ **Speed Under Pressure** | ✅ **Clear Communication** |
 |:---:|:---:|:---:|
@@ -72,12 +72,18 @@ Selected for cloud startup program
 <tr>
 <td width="50%">
 
-### 🛡️ [SerisAI — Fraud Detection System](https://faraz-mubeen.vercel.app/)
-Real-time ML fraud detection & prevention
-- **94% accuracy** in fraud detection
-- **50,000+ daily transactions** processed
-- Stack: `Python` `FastAPI` `PostgreSQL` `OpenAI API` `AWS Lambda`
-- **Status:** ✅ In Production
+### 🔬 [Enterprise RAG System](https://github.com/Faraz6180/Enterprise-rag-system)
+Production-oriented RAG pipeline with observability
+- PDF ingestion, FAISS retrieval, custom evaluation metrics
+- Langfuse observability for hallucination/quality monitoring
+- Stack: `Python` `FastAPI` `FAISS` `Langfuse` `Groq`
+- 🔗 [Live Demo](#) <!-- ⚠️ replace with your actual deployed link (HF Spaces, etc.) -->
+
+### 🔬 [Aptimi — AI Research Assistant](https://lablab.ai/event/replit-and-cursor-hackathon/byte-busters/aptimi-your-productivity-partner)
+Semantic search over academic papers
+- Cut research time by **80%**; hybrid retrieval improved relevance by **31%** vs. single-vector baseline
+- Stack: `Python` `LangChain` `FAISS` `Streamlit`
+- 🏆 Replit x Cursor Hackathon Finalist
 
 </td>
 <td width="50%">
@@ -88,29 +94,26 @@ Context-aware code analysis & automatic fix suggestions
 - Stack: `LangChain` `OpenAI` `FastAPI` `VS Code API`
 - 🏆 DeepSeek Hackathon Finalist
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔬 [Aptimi — AI Research Assistant](https://lablab.ai/event/replit-and-cursor-hackathon/byte-busters/aptimi-your-productivity-partner)
-Semantic search over 1M+ academic papers
-- Cut research time by **80%**
-- Stack: `Python` `LangChain` `FAISS` `Streamlit`
-- 🏆 Replit x Cursor Hackathon Finalist
-
-</td>
-<td width="50%">
-
-### 📊 [ChurnGuard — Customer Analytics](https://github.com/Faraz6180/ANN-Classification-Churn)
-Predictive ML for customer retention
-- **92% accuracy** churn prediction
-- Enables targeted intervention strategies
-- Stack: `PyTorch` `Scikit-Learn` `Streamlit`
+### 🛡️ [SerisAI — Fraud Detection System](https://faraz-mubeen.vercel.app/)
+Real-time ML fraud detection & prevention
+- **94% accuracy** in fraud detection
+- **50,000+ daily transactions** processed
+- Stack: `Python` `FastAPI` `PostgreSQL` `OpenAI API` `AWS Lambda`
+- **Status:** ✅ In Production <!-- ⚠️ confirm this is true and defensible in an interview -->
 
 </td>
 </tr>
 </table>
+
+<details>
+<summary>📊 More Projects</summary>
+
+### [ChurnGuard — Customer Analytics](https://github.com/Faraz6180/ANN-Classification-Churn)
+Predictive ML for customer retention
+- **92% accuracy** churn prediction
+- Stack: `PyTorch` `Scikit-Learn` `Streamlit`
+
+</details>
 
 ---
 
@@ -156,6 +159,7 @@ Predictive ML for customer retention
 
 <div align="center">
 
+<!-- Shows current streak, longest streak, and total contributions together — no clean way to isolate "total" only -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Faraz6180&theme=tokyonight&hide_border=true)](https://github.com/Faraz6180)
 
 </div>
@@ -196,10 +200,10 @@ Predictive ML for customer retention
 
 ## 💼 Open To
 
-**Full-Time:** AI/ML Engineer · Generative AI Developer · AI Solutions Architect · Founding Engineer
-**Contract:** RAG Systems · LLM Fine-tuning · AI Agents · End-to-end ML Pipelines
-**Location:** UAE · Saudi Arabia · Qatar · Remote
-**Availability:** August 2026 · Visa sponsorship required
+**Full-Time:** AI Engineer · Generative AI Developer · Backend Engineer · Founding Engineer
+**Contract:** RAG Systems · LLM Integration · AI Agents · End-to-end ML Pipelines
+**Location:** 🌍 Remote (Worldwide) — based in Pakistan, GMT+5
+**Availability:** Immediate
 
 ---
 
@@ -213,7 +217,7 @@ Predictive ML for customer retention
 [![Hackathons](https://img.shields.io/badge/lablab.ai-17+_Hackathons-FF6B6B?style=for-the-badge)](https://lablab.ai/u/@Faraz_Mubeen)
 [![All Links](https://img.shields.io/badge/%F0%9F%94%97_All_Links-Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/farazmubeenhaider)
 
-**📍 Faisalabad, Pakistan · 🌍 Open to UAE / Saudi Arabia · ✈️ Available August 2026**
+**📍 Faisalabad, Pakistan · 🌍 Remote (GMT+5) · Available Now**
 
 <br/>
 
