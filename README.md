@@ -13,7 +13,7 @@
 
 ## 👋 Who I Am
 
-AI Engineer focused on **LLM integration, RAG pipelines, and backend systems for production data.** I've solo-architected a 12-week SaaS MVP for a paying client, built ETL pipelines and FastAPI microservices used by 30+ portfolio startups, and shipped 3 hackathon-finalist RAG/agent systems. I write about what I build (115+ technical articles, 1,500+ monthly readers). **Fully remote, based in Pakistan (GMT+5), available immediately.**
+AI Engineer focused on **LLM integration, RAG pipelines, and backend systems for production data.** I've solo-architected a 12-week SaaS MVP for a paying client, built ETL pipelines and FastAPI microservices used by 30+ portfolio startups, and shipped multiple deployed RAG/LLM tools with real evaluation metrics and observability. I write about the gap between RAG demos and RAG that survives production. **Fully remote, based in Pakistan (GMT+5), available immediately.**
 
 ---
 
@@ -33,24 +33,28 @@ Selected top 100 of 900+ global applicants. Taught Python and led structured cod
 ## 🔬 Flagship Project
 
 ### [Enterprise RAG System](https://github.com/Faraz6180/Enterprise-rag-system)
-Production-oriented retrieval-augmented generation pipeline.
-- PDF ingestion → chunking → FAISS retrieval → LLM generation, with custom evaluation metrics
-- Langfuse observability tracking token usage, latency, and hallucination rate per session
-- Stack: `Python` `FastAPI` `FAISS` `Langfuse` `Groq`
-- 🔗 **[Live Demo](#)** <!-- ⚠️ replace with your real deployed link before publishing -->
+Production-oriented retrieval-augmented generation pipeline for document Q&A.
+- PDF ingestion → chunking → FAISS retrieval → grounded generation via Groq (Llama 3.1)
+- Three custom evaluation metrics (faithfulness, answer relevance, context precision) — no LLM-judge cost
+- Langfuse observability tracking latency, token usage, and traces per query
+- Stack: `Python` `FastAPI/Gradio` `FAISS` `Langfuse` `Groq`
+- 🔗 **[Live Demo](https://huggingface.co/spaces/Faraz618/enterprise-rag-system)**
 
 ---
 
 ## 🏆 Additional Projects & Hackathons
 
-| Project | What it does | Result | Stack |
+| Project | What it does | Result | Live Demo |
 |---|---|---|---|
-| [Aptimi — Research Assistant](https://lablab.ai/event/replit-and-cursor-hackathon/byte-busters/aptimi-your-productivity-partner) | Hybrid (dense+BM25) semantic search over academic papers | +31% answer relevance vs. single-vector baseline · 🏆 Hackathon Finalist | LangChain, FAISS, Streamlit |
-| [DevAI — Debugging Assistant](https://lablab.ai/event/fall-in-love-with-deepseek/dev-ai/devai-leveraging-ai-in-development-workflow) | Context-aware code analysis + auto-fix suggestions | −40% bug-fixing time · 🏆 Hackathon Finalist | LangChain, OpenAI, FastAPI |
-| [SerisAI — Fraud Detection](https://faraz-mubeen.vercel.app/) | Real-time transaction fraud classification | 94% accuracy on test set <!-- ⚠️ rewrite to match actual verified status, see note below --> | FastAPI, PostgreSQL, OpenAI API |
-| [ChurnGuard](https://github.com/Faraz6180/ANN-Classification-Churn) | Customer churn prediction | 92% test accuracy | PyTorch, scikit-learn |
+| [HireMind AI](https://github.com/Faraz6180/HireMind-AI) | AI hiring copilot: multi-job resume matching, ATS scoring, skill-gap detection, cover letter generation | 8 integrated career features, end-to-end pipeline | [Try it](https://huggingface.co/spaces/Faraz618/HireMind-AI) |
+| [AI Research Assistant](https://github.com/Faraz6180/AI-powered-Research-Assistant) | Multi-source synthesis (ArXiv, Wikipedia, web) via LangChain agent | Parallel multi-source retrieval + AI synthesis, not just search | [Try it](https://ai-research-agent-nu.vercel.app) |
+| [LLM Document Summarizer](https://github.com/Faraz6180/llm-document-summarizer) | Multi-style document summarization (bullets, executive summary, plain English) | Fast inference via Groq, deployed on HF Spaces | [Try it](https://huggingface.co/spaces/Faraz618/ai-summarizer) |
+| [Aptimi — Research Assistant](https://lablab.ai/event/replit-and-cursor-hackathon/byte-busters/aptimi-your-productivity-partner) | Hybrid (dense+BM25) semantic search over academic papers | +31% answer relevance vs. single-vector baseline · 🏆 Hackathon Finalist | — |
+| [DevAI — Debugging Assistant](https://lablab.ai/event/fall-in-love-with-deepseek/dev-ai/devai-leveraging-ai-in-development-workflow) | Context-aware code analysis + auto-fix suggestions | −40% bug-fixing time · 🏆 Hackathon Finalist | — |
 
 🏅 IBM Granite Hackathon — Winning team · 17+ international hackathons total → **[See all on lablab.ai](https://lablab.ai/u/@Faraz_Mubeen)**
+
+<sub>⚠️ Note to self: AI-Resume-Analyzer and TalentBridge-AI cover similar ground to HireMind AI — keep those unpinned/archived on GitHub to avoid redundancy.</sub>
 
 ---
 
@@ -81,6 +85,16 @@ Production-oriented retrieval-augmented generation pipeline.
 
 ---
 
+## 📝 Writing — Featured Articles
+
+- [Why Most RAG Systems Fail in Production (And How I'd Design One Differently)](https://medium.com/@farazmubeenhaider902/why-most-rag-systems-fail-in-production-and-how-id-design-one-differently-e615f4f3ae51)
+- [What I Learned Building a 50K-Document RAG System on a $20/month EC2 Instance](https://medium.com/@farazmubeenhaider902/what-i-learned-building-a-50k-document-rag-system-on-a-20-month-ec2-instance-f0c4ac270fce)
+- [6 AI Concepts You Must Master to Build Production-Ready AI Systems](https://medium.com/@farazmubeenhaider902/6-ai-concepts-you-must-master-to-build-production-ready-ai-systems-61fab44fd97d)
+
+➡️ **[More on Medium →](https://medium.com/@farazmubeenhaider902)**
+
+---
+
 ## 🎓 Education
 
 **B.S. Software Engineering** — National University of Modern Languages (NUML), Pakistan · Graduating Jul 2026
@@ -103,7 +117,7 @@ Stanford Code in Place (Section Leader) · Harvard CS50x Puzzle Day — 9/9 perf
 
 [![Email](https://img.shields.io/badge/%F0%9F%93%A7_Email-faraz.outreach8@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faraz.outreach8@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Message_Me-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fm618)
-[![Articles](https://img.shields.io/badge/Medium-115+_Articles-black?style=for-the-badge&logo=medium)](https://medium.com/@farazmubeen902)
+[![Medium](https://img.shields.io/badge/Medium-Read_My_Writing-black?style=for-the-badge&logo=medium)](https://medium.com/@farazmubeenhaider902)
 
 *"I don't just build AI — I build AI that solves real problems for real businesses."*
 
