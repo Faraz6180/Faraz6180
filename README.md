@@ -42,8 +42,6 @@ Selected top 100 of 900+ global applicants. Taught Python and led structured cod
 
 🏅 IBM Granite Hackathon — Winning team · 17+ international hackathons total → **[See all on lablab.ai](https://lablab.ai/u/@Faraz_Mubeen)**
 
-<sub>⚠️ Note to self: AI-Resume-Analyzer and TalentBridge-AI cover similar ground to HireMind AI — keep those unpinned/archived on GitHub to avoid redundancy.</sub>
-
 ---
 
 ## 🧰 Stack
