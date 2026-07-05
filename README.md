@@ -17,7 +17,7 @@ Applied AI Engineer building production LLM + RAG + FastAPI systems. Sole backen
 AI SaaS MVP for 1337 Ventures (KL) — FastAPI + LangChain + AWS, zero prod incidents at launch.
 Production RAG over 50,000+ documents at sub-2s p95 on a $20/month EC2. Prior: ETL + FastAPI ML
 microservices for 30+ startups at NIC Faisalabad. Stanford Code in Place Section Leader. Open to UAE / KSA
-on-site.**
+on-site.
 
 ---
 
