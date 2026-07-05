@@ -13,9 +13,11 @@
 
 ## 👋 Who I Am
 
-AI Engineer focused on **LLM integration, RAG pipelines, and backend systems for production data.** I've solo-architected a 12-week SaaS MVP for a paying client, Shipped Python ETL + FastAPI ML microservices powering live KPI dashboards for 30+
-portfolio startups, eliminating 12 hours/week of manual analyst reporting. Deployed via GitHub Actions
-CI/CD, and shipped multiple deployed RAG/LLM tools with real evaluation metrics and observability. I write about the gap between RAG demos and RAG that survives production. **Fully remote, based in Pakistan (GMT+5), available immediately.**
+Applied AI Engineer building production LLM + RAG + FastAPI systems. Sole backend engineer on a 12-week
+AI SaaS MVP for 1337 Ventures (KL) — FastAPI + LangChain + AWS, zero prod incidents at launch.
+Production RAG over 50,000+ documents at sub-2s p95 on a $20/month EC2. Prior: ETL + FastAPI ML
+microservices for 30+ startups at NIC Faisalabad. Stanford Code in Place Section Leader. Open to UAE / KSA
+on-site.**
 
 ---
 
