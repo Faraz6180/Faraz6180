@@ -13,7 +13,9 @@
 
 ## 👋 Who I Am
 
-AI Engineer focused on **LLM integration, RAG pipelines, and backend systems for production data.** I've solo-architected a 12-week SaaS MVP for a paying client, built ETL pipelines and FastAPI microservices used by 30+ portfolio startups, and shipped multiple deployed RAG/LLM tools with real evaluation metrics and observability. I write about the gap between RAG demos and RAG that survives production. **Fully remote, based in Pakistan (GMT+5), available immediately.**
+AI Engineer focused on **LLM integration, RAG pipelines, and backend systems for production data.** I've solo-architected a 12-week SaaS MVP for a paying client, Shipped Python ETL + FastAPI ML microservices powering live KPI dashboards for 30+
+portfolio startups, eliminating 12 hours/week of manual analyst reporting. Deployed via GitHub Actions
+CI/CD, and shipped multiple deployed RAG/LLM tools with real evaluation metrics and observability. I write about the gap between RAG demos and RAG that survives production. **Fully remote, based in Pakistan (GMT+5), available immediately.**
 
 ---
 
