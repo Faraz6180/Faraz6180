@@ -2,7 +2,7 @@
 
 **Applied AI Engineer** — Building LLM-powered document intelligence tools and shipping fast.
 
-I'm a Software Engineering student at NUML (graduating July 2026) focused on applied AI systems. I specialize in rapid prototyping of LLM applications — particularly document processing, retrieval systems, and AI agents. I've shipped 11+ hackathon projects in 15 international competitions, including a win at the IBM Granite Hackathon.
+I'm a Software Engineering student at NUML focused on applied AI systems. I specialize in rapid prototyping of LLM applications — particularly document processing, retrieval systems, and AI agents. I've shipped 11+ hackathon projects in 15 international competitions, including a win at the IBM Granite Hackathon.
 
 ---
 
