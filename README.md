@@ -88,8 +88,6 @@ An AI-powered development workflow assistant that generates project-specific tut
 
 - Building production-ready RAG systems with evaluation frameworks
 - Learning FastAPI for robust AI backend development
-- Preparing for AI Engineering roles in UAE, Saudi Arabia, and Qatar
-
 ---
 
 ## Contact
@@ -98,9 +96,6 @@ An AI-powered development workflow assistant that generates project-specific tut
 - 💼 **LinkedIn:** [linkedin.com/in/farazmubeen-ai](https://linkedin.com/in/farazmubeen-ai)
 - 🏆 **LabLab.ai:** [lablab.ai/u/@Faraz_Mubeen](https://lablab.ai/u/@Faraz_Mubeen)
 - 📝 **Medium:** [[Your Medium URL]](https://medium.com/@farazmubeenhaider902)
-- 🌍 **Location:** Faisalabad, Pakistan | Open to relocation (UAE, KSA, Qatar, Remote)
-- 📅 **Availability:** August 2026
-
 ---
 
 &gt; *I build AI prototypes fast, learn from each one, and iterate toward production quality.*
