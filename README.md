@@ -97,7 +97,7 @@ An AI-powered development workflow assistant that generates project-specific tut
 - 📧 **Email:** faraz.outreach8@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/farazmubeen-ai](https://linkedin.com/in/farazmubeen-ai)
 - 🏆 **LabLab.ai:** [lablab.ai/u/@Faraz_Mubeen](https://lablab.ai/u/@Faraz_Mubeen)
-- 📝 **Medium:** [Your Medium URL]
+- 📝 **Medium:** [[Your Medium URL]](https://medium.com/@farazmubeenhaider902)
 - 🌍 **Location:** Faisalabad, Pakistan | Open to relocation (UAE, KSA, Qatar, Remote)
 - 📅 **Availability:** August 2026
 
