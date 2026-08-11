@@ -129,7 +129,6 @@ I'm an **Applied AI Engineer** focused on shipping LLM-powered systems — **RAG
 **Deployment** · Hugging Face Spaces · Streamlit Cloud
 
 ---
-
 ## 📈 GitHub Stats
 
 <div align="center">
