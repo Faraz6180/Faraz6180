@@ -137,8 +137,6 @@ I'm an **Applied AI Engineer** focused on shipping LLM-powered systems — **RAG
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Faraz6180&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com/?user=Faraz6180&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
 </div>
 
 ---
