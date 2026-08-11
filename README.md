@@ -134,11 +134,11 @@ I'm an **Applied AI Engineer** focused on shipping LLM-powered systems — **RAG
 
 <div align="center">
 
-![Faraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faraz6180&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-stats-extended.vercel.app/api?username=Faraz6180&show_icons=true&theme=tokyonight&hide_border=true" alt="Faraz's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faraz6180&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Faraz6180&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Faraz6180&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=Faraz6180&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
