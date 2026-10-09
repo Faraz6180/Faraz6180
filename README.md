@@ -24,7 +24,7 @@ I care about what happens beyond the happy path: correctness, failure handling, 
 * **AI agent workflows:** Multi-step orchestration, agent coordination, and verification patterns.
 * **Software quality:** Reproducible setup, meaningful tests, clear documentation, and honest reporting of limitations.
 
-> These areas reflect my work and interests; the depth of implementation and validation varies by project.
+These areas reflect my work and interests; the depth of implementation and validation varies by project.
 
 ---
 
@@ -46,9 +46,7 @@ A RAG application exploring how generated answers can be checked against retriev
 
 **Technologies:** Python, FAISS, sentence-transformers, Hugging Face Inference API, PyPDF, Gradio.
 
-> **Important limitation:** A critic or groundedness score is not a guarantee of factual correctness. Reliability depends on the implementation and evaluation of the checking process.
-
----
+**Important limitation:** A critic or groundedness score is not a guarantee of factual correctness. Reliability depends on the implementation and evaluation of the checking process.
 
 ### 2. AdvancedLeadsGeneration-AI — IBM Granite Hackathon Project
 
@@ -65,9 +63,7 @@ A multi-agent approach to lead qualification developed by Team PolyEns.
 
 **Technologies:** Next.js, FastAPI, IBM Watson AI, IBM Granite.
 
-> **Recognition:** Team PolyEns won the Generative AI Hackathon with IBM Granite. See the linked event page for project and recognition details.
-
----
+**Recognition:** Team PolyEns won the Generative AI Hackathon with IBM Granite. See the linked event page for project and recognition details.
 
 ### 3. HireMind-AI — AI-Assisted Career Workflow
 
@@ -86,9 +82,7 @@ An LLM-powered application for resume analysis and job-application tasks.
 
 **Technologies:** Python, Streamlit, Groq API, LLaMA models, JSON persistence, Hugging Face Spaces.
 
-> **Important limitation:** ATS-style scores are estimates, not predictions of how every employer's recruitment system will evaluate a candidate.
-
----
+**Important limitation:** ATS-style scores are estimates, not predictions of how every employer's recruitment system will evaluate a candidate.
 
 ### 4. SafeLite — Research-Oriented AI System
 
@@ -103,7 +97,7 @@ A modular project exploring planning, safety reasoning, execution, simulation, a
 * Simulation and controlled evaluation.
 * Testing component behavior and failure cases.
 
-> The project should be evaluated through its actual implementation, tests, and documented research status. It should not be interpreted as demonstrating formal safety guarantees unless those guarantees are established by supporting evidence.
+The project should be evaluated through its actual implementation, tests, and documented research status. It should not be interpreted as demonstrating formal safety guarantees unless those guarantees are established by supporting evidence.
 
 ---
 
@@ -131,28 +125,28 @@ For project-specific details and hackathon participation, visit my [LabLab profi
 | Interfaces           | Streamlit, Gradio, Next.js                                                                 |
 | Demos and deployment | Hugging Face Spaces, Streamlit Cloud                                                       |
 
-> The presence of a technology in this list does not imply equal depth across every tool or production-scale experience with each one. Please use the linked projects to inspect the actual implementation.
+The presence of a technology in this list does not imply equal depth across every tool or production-scale experience with each one. Please use the linked projects to inspect the actual implementation.
 
 ---
 
 ## How I Approach Engineering
 
-**1. Make behavior inspectable.**\
+**1. Make behavior inspectable.**
 Readable code, useful documentation, and clear interfaces help other engineers understand a system.
 
-**2. Treat failure as part of the design.**\
+**2. Treat failure as part of the design.**
 Invalid input, unavailable dependencies, missing data, and uncertain model outputs deserve deliberate handling.
 
-**3. Test the claim, not just the happy path.**\
+**3. Test the claim, not just the happy path.**
 A successful demo is useful, but it does not establish correctness across different inputs and failure conditions.
 
-**4. Separate implementation from evidence.**\
+**4. Separate implementation from evidence.**
 A feature existing in code is different from a feature being tested, measured, or independently verified.
 
-**5. Prefer understandable trade-offs over impressive terminology.**\
+**5. Prefer understandable trade-offs over impressive terminology.**
 Architecture should be justified by requirements, constraints, and observed behavior.
 
-**6. Be honest about limitations.**\
+**6. Be honest about limitations.**
 Clear limitations make technical work more useful to reviewers and future contributors.
 
 ---
