@@ -1,15 +1,12 @@
- <div align="center">
+<div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:101827,50:1e3a5f,100:2563eb\&height=190\&section=header\&text=Faraz%20Mubeen%20Haider\&fontColor=ffffff\&fontSize=42\&fontAlignY=38\&desc=Software%20Engineering%20%7C%20Backend%20%7C%20Data%20Systems%20%7C%20Applied%20AI\&descSize=15\&descAlignY=60)
+![Faraz Mubeen Haider | Software Engineering | Backend | Data Systems | Applied AI](https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1E3A5F,100:4F8CFF&height=190&section=header&text=Faraz%20Mubeen%20Haider&fontColor=F1F5F9&fontSize=42&fontAlignY=38&desc=Software%20Engineering%20%7C%20Backend%20%7C%20Data%20Systems%20%7C%20Applied%20AI&descSize=15&descAlignY=60)
 
 ### Software Engineer building Python backend systems, data workflows, and AI-enabled applications.
 
 I care about what happens beyond the happy path: correctness, failure handling, reproducibility, and maintainable software.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square\&logo=github)](https://github.com/Faraz6180)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/farazmubeenhaider/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Applications-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)](https://huggingface.co/Faraz618)
-[![LabLab](https://img.shields.io/badge/LabLab-Projects-6C47FF?style=flat-square)](https://lablab.ai/u/@Faraz_Mubeen)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-1E3A5F?style=flat-square&logo=github&logoColor=F1F5F9)](https://github.com/Faraz6180) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1E3A5F?style=flat-square&logo=linkedin&logoColor=F1F5F9)](https://www.linkedin.com/in/farazmubeenhaider/) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Applications-1E3A5F?style=flat-square&logo=huggingface&logoColor=F1F5F9)](https://huggingface.co/Faraz618) [![LabLab](https://img.shields.io/badge/LabLab-Projects-1E3A5F?style=flat-square)](https://lablab.ai/u/@Faraz_Mubeen)
 
 </div>
 
@@ -45,7 +42,7 @@ I'm particularly interested in backend, Python, data engineering, and AI systems
 | Agentic workflows    | Multi-agent coordination, specialist agents, critic and verification patterns            |
 | Application delivery | Docker and deployment workflows where applicable, Streamlit, Gradio, Hugging Face Spaces |
 
-These areas reflect my work and interests; the depth of implementation and validation varies by project.
+> These areas reflect my work and interests; the depth of implementation and validation varies by project.
 
 ---
 
@@ -55,8 +52,7 @@ These areas reflect my work and interests; the depth of implementation and valid
 
 **A RAG application exploring how generated answers can be checked against retrieved source material.**
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github)](https://github.com/Faraz6180/ComplianceRAG)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)](https://huggingface.co/spaces/Faraz618/ComplianceRAG)
+[![Repository](https://img.shields.io/badge/Repository-1E3A5F?style=flat-square&logo=github&logoColor=F1F5F9)](https://github.com/Faraz6180/ComplianceRAG) [![Live Demo](https://img.shields.io/badge/Live%20Demo-4F8CFF?style=flat-square&logo=huggingface&logoColor=0B1220)](https://huggingface.co/spaces/Faraz618/ComplianceRAG)
 
 **Problem**
 
@@ -80,7 +76,7 @@ The project uses a multi-stage workflow:
 * What happens when relevant evidence is missing?
 * How should uncertain or unsupported answers be handled?
 
-**Important limitation:** A critic or groundedness score is not a guarantee of factual correctness. The reliability of the checking process depends on its implementation and evaluation.
+> **Important limitation:** A critic or groundedness score is not a guarantee of factual correctness. The reliability of the checking process depends on its implementation and evaluation.
 
 ---
 
@@ -88,8 +84,7 @@ The project uses a multi-stage workflow:
 
 **A multi-agent approach to lead qualification developed by Team PolyEns.**
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github)](https://github.com/Faraz6180/AdvancedLeadsGeneration-AI)
-[![Hackathon Recognition](https://img.shields.io/badge/IBM%20Granite-Hackathon%20Winner-0F62FE?style=flat-square\&logo=ibm)](https://lablab.ai/ai-hackathons/generative-ai-hackathon-with-ibm-granite/polyens)
+[![Repository](https://img.shields.io/badge/Repository-1E3A5F?style=flat-square&logo=github&logoColor=F1F5F9)](https://github.com/Faraz6180/AdvancedLeadsGeneration-AI) [![Hackathon Recognition](https://img.shields.io/badge/IBM%20Granite-Hackathon%20Winner-1E3A5F?style=flat-square&logo=ibm&logoColor=F1F5F9)](https://lablab.ai/ai-hackathons/generative-ai-hackathon-with-ibm-granite/polyens)
 
 **Problem**
 
@@ -116,8 +111,7 @@ The project explores a multi-agent workflow in which different agents assess a l
 
 **An LLM-powered application for resume analysis and job-application tasks.**
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github)](https://github.com/Faraz6180/HireMind-AI)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)](https://huggingface.co/spaces/Faraz618/HireMind-AI)
+[![Repository](https://img.shields.io/badge/Repository-1E3A5F?style=flat-square&logo=github&logoColor=F1F5F9)](https://github.com/Faraz6180/HireMind-AI) [![Live Demo](https://img.shields.io/badge/Live%20Demo-4F8CFF?style=flat-square&logo=huggingface&logoColor=0B1220)](https://huggingface.co/spaces/Faraz618/HireMind-AI)
 
 **Problem**
 
@@ -142,7 +136,7 @@ The application brings together career-related tasks such as:
 
 The project provides an opportunity to examine application flow, model integration, input handling, persistence, and the limitations of heuristic or LLM-generated assessments.
 
-ATS-style scores should be treated as estimates, not as predictions of how every employer's recruitment system will evaluate a candidate.
+> ATS-style scores should be treated as estimates, not as predictions of how every employer's recruitment system will evaluate a candidate.
 
 ---
 
@@ -150,7 +144,7 @@ ATS-style scores should be treated as estimates, not as predictions of how every
 
 **A modular project exploring planning, safety reasoning, execution, simulation, and evaluation.**
 
-[![Repository](https://img.shields.io/badge/Explore%20Code-181717?style=flat-square\&logo=github)](https://github.com/Faraz6180/SafeLite)
+[![Repository](https://img.shields.io/badge/Explore%20Code-1E3A5F?style=flat-square&logo=github&logoColor=F1F5F9)](https://github.com/Faraz6180/SafeLite)
 
 SafeLite explores how components of an AI system can be separated so that planning, safety-related checks, execution, and evaluation can be examined independently.
 
@@ -163,7 +157,7 @@ The repository is best understood through its actual implementation, tests, and 
 * Simulation and controlled evaluation.
 * Testing component behavior and failure cases.
 
-The project should not be interpreted as demonstrating formal safety guarantees unless those guarantees are established by the implementation and supporting evidence.
+> The project should not be interpreted as demonstrating formal safety guarantees unless those guarantees are established by the implementation and supporting evidence.
 
 ---
 
@@ -238,28 +232,28 @@ I prefer to describe my stack in terms of the work it supports rather than prese
 | Interfaces           | Streamlit, Gradio, Next.js                                                                 |
 | Demos and deployment | Hugging Face Spaces, Streamlit Cloud                                                       |
 
-The presence of a technology in this list does not imply equal depth across every tool or production-scale experience with each one. Please use the linked projects to inspect the actual implementation.
+> The presence of a technology in this list does not imply equal depth across every tool or production-scale experience with each one. Please use the linked projects to inspect the actual implementation.
 
 ---
 
 ## How I Approach Engineering
 
-**1. Make behavior inspectable.**
+**1. Make behavior inspectable.**\
 Readable code, useful documentation, and clear interfaces help other engineers understand a system.
 
-**2. Treat failure as part of the design.**
+**2. Treat failure as part of the design.**\
 Invalid input, unavailable dependencies, missing data, and uncertain model outputs deserve deliberate handling.
 
-**3. Test the claim, not just the happy path.**
+**3. Test the claim, not just the happy path.**\
 A successful demo is useful, but it does not establish correctness across different inputs and failure conditions.
 
-**4. Separate implementation from evidence.**
+**4. Separate implementation from evidence.**\
 A feature existing in code is different from a feature being tested, measured, or independently verified.
 
-**5. Prefer understandable trade-offs over impressive terminology.**
+**5. Prefer understandable trade-offs over impressive terminology.**\
 Architecture should be justified by requirements, constraints, and observed behavior.
 
-**6. Be honest about limitations.**
+**6. Be honest about limitations.**\
 Clear limitations make technical work more useful to reviewers and future contributors.
 
 ---
