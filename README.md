@@ -2,75 +2,186 @@
 
 **Software Engineer | Python Backend & Data Systems | Applied AI**
 
-I build Python applications that connect data processing, APIs, and language-model components. I care about what happens beyond the happy path: validation, failure handling, reproducibility, and honest reporting of limitations.
+I build Python backend systems, data workflows, and AI-enabled applications. My interests include backend engineering, retrieval-augmented generation (RAG), LLM applications, and dependable software systems.
 
-Based in Pakistan. Open to remote and international software engineering roles.
+I care about what happens beyond the happy path: correctness, failure handling, reproducibility, and maintainable software.
 
-## Selected projects
+* **GitHub:** [Faraz6180](https://github.com/Faraz6180)
+* **LinkedIn:** [Faraz Mubeen Haider](https://www.linkedin.com/in/farazmubeenhaider/)
+* **Hugging Face:** [Faraz618](https://huggingface.co/Faraz618)
+* **LabLab:** [Projects and hackathons](https://lablab.ai/u/@Faraz_Mubeen)
+* **Medium:** [Technical writing](https://medium.com/@farazmubeenhaider902)
+* **Email:** [faraz.outreach8@gmail.com](mailto:faraz.outreach8@gmail.com)
 
-Most of these are prototypes and learning projects. Each entry says what is in it and what it does not have yet.
+---
 
-### SafeLite: planner, safety check, and executor as separate stages
+## Engineering Focus
 
-A research prototype that splits an LLM-driven task pipeline into independent parts (planning, safety checking, execution, evaluation) so each can be tested on its own.
+* **Python backend engineering:** API design, application structure, validation, error handling, and maintainability.
+* **Data systems:** Data ingestion, transformation, SQL, database-backed applications, and data integrity.
+* **Applied AI:** LLM integrations, RAG pipelines, document processing, and AI-assisted workflows.
+* **Retrieval and search:** Embeddings, semantic search, document chunking, and vector retrieval.
+* **AI agent workflows:** Multi-step orchestration, agent coordination, and verification patterns.
+* **Software quality:** Reproducible setup, meaningful tests, clear documentation, and honest reporting of limitations.
 
-- **What to inspect:** separate packages for the planner, safety checks, executor, and experiment runner; a simulator; evaluation metrics; swappable LLM providers (Groq, Hugging Face, OpenRouter, and a mock provider for offline runs).
-- **Safety checks:** plans that reference unknown objects, use invalid or duplicate actions, or target out-of-bounds locations are rejected, and rejected plans can go through a replanning step.
-- **Status:** unit tests exist for the planner, safety guard, executor, providers, and self-correction. Several are being updated to match the current API, so the suite does not pass yet. This is a research prototype and makes no formal safety guarantees.
+> These areas reflect my work and interests; the depth of implementation and validation varies by project.
 
-[Repository](https://github.com/Faraz6180/SafeLite)
+---
 
-### data-quality-pipeline: anomaly flagging for tabular data
+## Featured Projects
 
-Takes a CSV, reports data-quality issues, flags anomalous records, and writes a cleaned file, a flagged-records file, and a text report.
+### 1. ComplianceRAG — Document Retrieval and Answer Verification
 
-- **How it works:** missing-value and duplicate checks with median/mode imputation, then Isolation Forest combined with per-column z-scores. A record is HIGH risk when both methods flag it, MEDIUM when one does, and CLEAN otherwise. Flags come with rule-based plain-English explanations.
-- **What to try:** the Gradio demo, using the bundled 50-row synthetic transactions file with planted anomalies.
-- **Limits:** a single-file app. It has been run only on the synthetic sample, has no automated tests, and its detection is unsupervised and unevaluated on real data.
+A RAG application exploring how generated answers can be checked against retrieved source material.
 
-[Repository](https://github.com/Faraz6180/data-quality-pipeline) · [Demo and source (Hugging Face Space)](https://huggingface.co/spaces/Faraz618/data-quality-pipeline)
+* **Repository:** [ComplianceRAG](https://github.com/Faraz6180/ComplianceRAG)
+* **Live demo:** [Try ComplianceRAG](https://huggingface.co/spaces/Faraz618/ComplianceRAG)
 
-### ComplianceRAG: retrieval with an answer-checking step
+**What it explores**
 
-A small retrieval-augmented generation app that checks its own answers. It retrieves passages from an uploaded .txt or .pdf file (FAISS and sentence-transformers), generates a cited answer through the Hugging Face Inference API, then scores how well the answer is supported by the retrieved text. Low-scoring answers are flagged for review next to the source passages.
+* Retrieving relevant document passages using FAISS and sentence embeddings.
+* Generating answers grounded in retrieved context.
+* Providing source citations and applying a critic step to assess support.
+* Identifying weakly supported answers for additional scrutiny.
 
-- **What to try:** ask a question the document does not cover and watch the confidence flag drop.
-- **Limits:** the groundedness score is sentence-level embedding similarity and has not been validated against labelled data. It indexes one document at a time and has no automated tests. It is a demonstration of the checking idea, not a guarantee of factual correctness.
+**Technologies:** Python, FAISS, sentence-transformers, Hugging Face Inference API, PyPDF, Gradio.
 
-[Repository](https://github.com/Faraz6180/ComplianceRAG) · [Demo and source (Hugging Face Space)](https://huggingface.co/spaces/Faraz618/ComplianceRAG)
+> **Important limitation:** A critic or groundedness score is not a guarantee of factual correctness. Reliability depends on the implementation and evaluation of the checking process.
 
-### Other work
+---
 
-- **HireMind-AI:** a Streamlit app that uses an LLM (Groq) to compare a resume with job descriptions, estimate keyword and skill match, and draft improvements. Storage is a local JSON file and there are no automated tests. The match scores are heuristic estimates. [Repository](https://github.com/Faraz6180/HireMind-AI) · [Demo](https://huggingface.co/spaces/Faraz618/HireMind-AI)
-- **Hackathons:** I have built prototypes in LabLab.ai hackathons. One example is AdvancedLeadsGeneration-AI, a multi-agent lead-qualification prototype built with Team PolyEns for the Generative AI Hackathon with IBM Granite (Next.js, FastAPI, IBM Watson). See the [project page](https://lablab.ai/ai-hackathons/generative-ai-hackathon-with-ibm-granite/polyens) and my [LabLab profile](https://lablab.ai/u/@Faraz_Mubeen).
+### 2. AdvancedLeadsGeneration-AI — IBM Granite Hackathon Project
 
-## Technologies
+A multi-agent approach to lead qualification developed by Team PolyEns.
 
-- **Used in the projects above:** Python, Pandas, scikit-learn, Pydantic, pytest, Gradio, Streamlit, FAISS, sentence-transformers, Groq API, Hugging Face Inference API, LangChain, MuJoCo and MetaWorld.
-- **Used in a team hackathon project:** FastAPI, Next.js, TypeScript, IBM Watson.
-- **Used outside these public repositories:** SQL, PostgreSQL, SQLAlchemy.
+* **Repository:** [AdvancedLeadsGeneration-AI](https://github.com/Faraz6180/AdvancedLeadsGeneration-AI)
+* **Hackathon project:** [Generative AI Hackathon with IBM Granite](https://lablab.ai/ai-hackathons/generative-ai-hackathon-with-ibm-granite/polyens)
 
-## How I work
+**What it explores**
 
-- Make behaviour inspectable: readable code, clear interfaces, runnable setup.
-- Treat failure as part of the design: invalid input, unavailable dependencies, and uncertain model output need deliberate handling.
-- Test more than the happy path, and keep a working demo separate from evidence that something is correct.
-- Say what is implemented, what is tested, and what is still a limitation.
+* Dividing lead assessment into specialized tasks.
+* Coordinating intermediate results between components.
+* Combining different assessments into a final workflow.
 
-## Working toward
+**Technologies:** Next.js, FastAPI, IBM Watson AI, IBM Granite.
 
-Stronger Python backend and API engineering, data pipelines and database-backed systems, testing and CI, and deployment and observability.
+> **Recognition:** Team PolyEns won the Generative AI Hackathon with IBM Granite. See the linked event page for project and recognition details.
 
-## Community
+---
 
-- Stanford Code in Place: Section Leader, supporting learners in an introductory Python course.
-- Founder Institute Pakistan: cohort participation.
+### 3. HireMind-AI — AI-Assisted Career Workflow
 
-## Contact
+An LLM-powered application for resume analysis and job-application tasks.
 
-- Email: [faraz.outreach8@gmail.com](mailto:faraz.outreach8@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/farazmubeenhaider/)
-- [GitHub](https://github.com/Faraz6180)
-- [Hugging Face](https://huggingface.co/Faraz618)
-- [LabLab.ai](https://lablab.ai/u/@Faraz_Mubeen)
-- [Medium](https://medium.com/@farazmubeenhaider902)
+* **Repository:** [HireMind-AI](https://github.com/Faraz6180/HireMind-AI)
+* **Live demo:** [Try HireMind-AI](https://huggingface.co/spaces/Faraz618/HireMind-AI)
+
+**Features**
+
+* Resume and job-description analysis.
+* ATS-oriented scoring and keyword comparison.
+* Skill-gap identification and resume suggestions.
+* Cover-letter generation and interview preparation.
+* Application tracking and career-related chat.
+
+**Technologies:** Python, Streamlit, Groq API, LLaMA models, JSON persistence, Hugging Face Spaces.
+
+> **Important limitation:** ATS-style scores are estimates, not predictions of how every employer's recruitment system will evaluate a candidate.
+
+---
+
+### 4. SafeLite — Research-Oriented AI System
+
+A modular project exploring planning, safety reasoning, execution, simulation, and evaluation.
+
+* **Repository:** [Explore SafeLite](https://github.com/Faraz6180/SafeLite)
+
+**Areas of interest**
+
+* Separation of planning and execution.
+* Explicit safety-related checks and decision boundaries.
+* Simulation and controlled evaluation.
+* Testing component behavior and failure cases.
+
+> The project should be evaluated through its actual implementation, tests, and documented research status. It should not be interpreted as demonstrating formal safety guarantees unless those guarantees are established by supporting evidence.
+
+---
+
+## Selected Recognition & Community
+
+* **IBM Granite Generative AI Hackathon — Winner:** Team PolyEns, AdvancedLeadsGeneration-AI.
+* **Stanford Code in Place — Section Leader:** Introductory Python programming education.
+* **AlgoVerse Research Program:** Reported 45% merit scholarship.
+* **Founder Institute Pakistan:** Cohort participation.
+
+For project-specific details and hackathon participation, visit my [LabLab profile](https://lablab.ai/u/@Faraz_Mubeen).
+
+---
+
+## Technology Stack
+
+| Category             | Technologies                                                                               |
+| -------------------- | ------------------------------------------------------------------------------------------ |
+| Languages            | Python, SQL, TypeScript                                                                    |
+| Backend              | FastAPI, REST APIs                                                                         |
+| Databases and data   | PostgreSQL, Pandas, SQLAlchemy                                                             |
+| LLM integrations     | Groq API, LLaMA models, IBM Granite, IBM Watson AI, Hugging Face Inference API, OpenAI API |
+| Retrieval            | FAISS, sentence-transformers, LangChain, PyPDF                                             |
+| AI workflows         | Multi-agent workflows, critic and verification patterns                                    |
+| Interfaces           | Streamlit, Gradio, Next.js                                                                 |
+| Demos and deployment | Hugging Face Spaces, Streamlit Cloud                                                       |
+
+> The presence of a technology in this list does not imply equal depth across every tool or production-scale experience with each one. Please use the linked projects to inspect the actual implementation.
+
+---
+
+## How I Approach Engineering
+
+**1. Make behavior inspectable.**\
+Readable code, useful documentation, and clear interfaces help other engineers understand a system.
+
+**2. Treat failure as part of the design.**\
+Invalid input, unavailable dependencies, missing data, and uncertain model outputs deserve deliberate handling.
+
+**3. Test the claim, not just the happy path.**\
+A successful demo is useful, but it does not establish correctness across different inputs and failure conditions.
+
+**4. Separate implementation from evidence.**\
+A feature existing in code is different from a feature being tested, measured, or independently verified.
+
+**5. Prefer understandable trade-offs over impressive terminology.**\
+Architecture should be justified by requirements, constraints, and observed behavior.
+
+**6. Be honest about limitations.**\
+Clear limitations make technical work more useful to reviewers and future contributors.
+
+---
+
+## What I'm Working Toward
+
+I'm focused on becoming a stronger software engineer through hands-on work in:
+
+* Python backend and API engineering.
+* Data pipelines, database-backed systems, and data integrity.
+* Testing, debugging, and maintainable application design.
+* Reliable AI integrations and evaluation.
+* Deployment, observability, and the operational behavior of software systems.
+
+My goal is to build systems that another engineer can run, inspect, understand, and improve—not just applications that look convincing in a demo.
+
+---
+
+## Connect With Me
+
+I'm open to conversations about backend engineering, Python, data systems, applied AI, open-source collaboration, and suitable software engineering opportunities.
+
+* [LinkedIn](https://www.linkedin.com/in/farazmubeenhaider/)
+* [GitHub](https://github.com/Faraz6180)
+* [Hugging Face](https://huggingface.co/Faraz618)
+* [LabLab](https://lablab.ai/u/@Faraz_Mubeen)
+* [Medium](https://medium.com/@farazmubeenhaider902)
+* [Email](mailto:faraz.outreach8@gmail.com)
+
+---
+
+*Build carefully. Verify honestly. Document what matters.*
