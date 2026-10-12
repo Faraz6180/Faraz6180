@@ -16,7 +16,6 @@ I care about what happens beyond the happy path: correctness, failure handling, 
 [![LabLab](https://img.shields.io/badge/LabLab-Projects-6C47FF?style=flat-square)](https://lablab.ai/u/@Faraz_Mubeen)
 
 </div>
----
 
 ## 👋 About Me
 
