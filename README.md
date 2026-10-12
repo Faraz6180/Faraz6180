@@ -52,6 +52,83 @@ These areas reflect my work and interests; the depth of implementation and valid
 
 ---
 
+## Featured Projects
+
+I'm an **Applied AI Engineer** focused on shipping LLM-powered systems — **RAG pipelines, multi-agent workflows, and document intelligence.** My work lives at the intersection of *"does it actually retrieve the right thing"* and *"can we prove it didn't hallucinate."*
+### 1. ComplianceRAG — Document Retrieval and Answer Verification
+
+- 🏆 **IBM Granite Hackathon — Winner** (Team PolyEns, agentic lead-generation)
+- 🚀 **11 AI systems shipped** across **15 international hackathons** in 2024–2026
+- 🎓 **Stanford Code in Place** — Section Leader (selected from 900+ global applicants)
+- 🔬 **AlgoVerse Research Program** (EOE.ai × Omdena) — 45% merit scholarship, RAG/NLP research
+- 📍 Pakistan · Open to **remote AI Engineer / GenAI / LLM Engineer** roles
+**A RAG application exploring how generated answers can be checked against retrieved source material.**
+
+> I don't list technologies I haven't shipped with. Every stack on this page appears in a repo you can open.
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github)](https://github.com/Faraz6180/ComplianceRAG)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)](https://huggingface.co/spaces/Faraz618/ComplianceRAG)
+
+**Problem**
+
+Retrieval-augmented generation can produce fluent answers that are not adequately supported by the documents supplied to the model. A useful system needs to consider not only answer generation but also retrieval quality, citations, and unsupported claims.
+
+**Implementation**
+
+The project uses a multi-stage workflow:
+
+1. **Retrieval:** Search document representations using FAISS and sentence embeddings.
+2. **Generation:** Generate an answer from retrieved context using a language model, with source citations.
+3. **Checking:** Apply a critic step intended to assess sentence-level support and citation validity.
+4. **Review:** Identify low-confidence or weakly supported outputs for additional scrutiny.
+
+**Technologies:** Python · FAISS · `sentence-transformers` · Hugging Face Inference API · PyPDF · Gradio
+
+**Engineering questions explored**
+
+* How does retrieval quality affect the final answer?
+* Can generated claims be traced to source passages?
+* What happens when relevant evidence is missing?
+* How should uncertain or unsupported answers be handled?
+
+**Important limitation:** A critic or groundedness score is not a guarantee of factual correctness. The reliability of the checking process depends on its implementation and evaluation.
+
+---
+
+## 🎯 What I Actually Build
+### 2. AdvancedLeadsGeneration-AI — IBM Granite Hackathon Winner
+
+**A multi-agent approach to lead qualification developed by Team PolyEns.**
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github)](https://github.com/Faraz6180/AdvancedLeadsGeneration-AI)
+[![Hackathon Recognition](https://img.shields.io/badge/IBM%20Granite-Hackathon%20Winner-0F62FE?style=flat-square\&logo=ibm)](https://lablab.ai/ai-hackathons/generative-ai-hackathon-with-ibm-granite/polyens)
+
+**Problem**
+
+Lead qualification often requires balancing potential value against risks, uncertainty, and incomplete information. A single scoring step may not make those competing considerations explicit.
+
+**Approach**
+
+The project explores a multi-agent workflow in which different agents assess a lead from different perspectives, followed by a reconciliation step.
+
+**Technologies:** Next.js · FastAPI · IBM Watson AI · IBM Granite
+
+| Domain | What I've Shipped |
+|---|---|
+| **RAG Systems** | Multi-agent RAG with groundedness critic · Enterprise doc Q&A · Compliance retrieval |
+| **AI Agents** | Multi-agent lead qualification (debate pattern) · Job-application agent · Requirement-classification agent |
+| **Document Intelligence** | PDF → structured insight extraction · Resume ATS scoring · Contract fit-gap analysis |
+| **LLM Applications** | 8+ live Hugging Face Spaces · Groq / LLaMA 3 / IBM Granite / HF Inference API |
+**What to explore in the project**
+
+* How responsibilities are divided between agents.
+* How intermediate results are passed between components.
+* How competing assessments are reconciled.
+* How the workflow could be evaluated against representative lead scenarios.
+
+**Recognition:** Team PolyEns won the Generative AI Hackathon with IBM Granite. The linked event page provides the project and recognition context.
+
+---
+
 ## 🚀 Featured Projects
 ### 3. HireMind-AI — AI-Assisted Career Workflow
 
@@ -295,14 +372,8 @@ I'm open to conversations about backend engineering, Python, data systems, appli
 <div align="center">
 <i>Currently open to remote Applied AI / LLM / GenAI Engineer roles.</i>
 
-</div>
-
-<div align="center">
-
-*Currently open to remote Applied AI / LLM / GenAI Engineer roles.*
-
 ---
 
-**Build carefully. Verify honestly. Document what matters.**
+*Build carefully. Verify honestly. Document what matters.*
 
 </div>
