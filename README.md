@@ -1,5 +1,5 @@
+@@ -1,154 +1,298 @@
 <div align="center">
-
  <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:101827,50:1e3a5f,100:2563eb\&height=190\&section=header\&text=Faraz%20Mubeen%20Haider\&fontColor=ffffff\&fontSize=42\&fontAlignY=38\&desc=Software%20Engineering%20%7C%20Backend%20%7C%20Data%20Systems%20%7C%20Applied%20AI\&descSize=15\&descAlignY=60)
@@ -382,3 +382,5 @@ I'm open to conversations about backend engineering, Python, data systems, appli
 ---
 
 *Build carefully. Verify honestly. Document what matters.*
+
+</div>
