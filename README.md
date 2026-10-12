@@ -52,21 +52,28 @@ These areas reflect my work and interests; the depth of implementation and valid
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 I'm an **Applied AI Engineer** focused on shipping LLM-powered systems — **RAG pipelines, multi-agent workflows, and document intelligence.** My work lives at the intersection of *"does it actually retrieve the right thing"* and *"can we prove it didn't hallucinate."*
-### 1. ComplianceRAG — Document Retrieval and Answer Verification
+
+### ⚡ Highlights
 
 - 🏆 **IBM Granite Hackathon — Winner** (Team PolyEns, agentic lead-generation)
 - 🚀 **11 AI systems shipped** across **15 international hackathons** in 2024–2026
 - 🎓 **Stanford Code in Place** — Section Leader (selected from 900+ global applicants)
 - 🔬 **AlgoVerse Research Program** (EOE.ai × Omdena) — 45% merit scholarship, RAG/NLP research
 - 📍 Pakistan · Open to **remote AI Engineer / GenAI / LLM Engineer** roles
-**A RAG application exploring how generated answers can be checked against retrieved source material.**
 
 > I don't list technologies I haven't shipped with. Every stack on this page appears in a repo you can open.
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github)](https://github.com/Faraz6180/ComplianceRAG)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)](https://huggingface.co/spaces/Faraz618/ComplianceRAG)
+
+---
+
+### 1. ComplianceRAG — Document Retrieval and Answer Verification
+
+**A RAG application exploring how generated answers can be checked against retrieved source material.**
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/Faraz6180/ComplianceRAG)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/Faraz618/ComplianceRAG)
 
 **Problem**
 
