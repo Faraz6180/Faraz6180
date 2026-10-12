@@ -370,8 +370,6 @@ I'm open to conversations about backend engineering, Python, data systems, appli
 - 🧪 **Hackathons:** [lablab.ai/u/@Faraz_Mubeen](https://lablab.ai/u/@Faraz_Mubeen)
 - ✍️ **Writing:** [medium.com/@farazmubeenhaider902](https://medium.com/@farazmubeenhaider902)
 
-* **Medium:** [Technical writing](https://medium.com/@farazmubeenhaider902)
-
 <div align="center">
 <i>Currently open to remote Applied AI / LLM / GenAI Engineer roles.</i>
 
