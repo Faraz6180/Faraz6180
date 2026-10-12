@@ -1,11 +1,14 @@
 
-<div align="center">
+
+ <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:101827,50:1e3a5f,100:2563eb\&height=190\&section=header\&text=Faraz%20Mubeen%20Haider\&fontColor=ffffff\&fontSize=42\&fontAlignY=38\&desc=Software%20Engineering%20%7C%20Backend%20%7C%20Data%20Systems%20%7C%20Applied%20AI\&descSize=15\&descAlignY=60)
 
-# Applied AI Engineer
+<!-- HERO BANNER: generate at banner.dev or capsule-render -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:1a237e,100:3949ab&height=200&section=header&text=Faraz%20Mubeen%20Haider&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Applied%20AI%20Engineer%20·%20LLM%20Systems%20·%20RAG%20·%20Agents&descSize=18&descAlignY=60)
+### Software Engineer building Python backend systems, data workflows, and AI-enabled applications.
 
-### I build LLM systems, ship them to production, and make sure they don't hallucinate.
+### Applied AI Engineer — I build LLM systems, ship them to production, and make sure they don't hallucinate.
 
 I care about what happens beyond the happy path: correctness, failure handling, reproducibility, and maintainable software.
 
