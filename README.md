@@ -369,11 +369,7 @@ I'm open to conversations about backend engineering, Python, data systems, appli
 - 🤗 **Hugging Face:** [huggingface.co/Faraz618](https://huggingface.co/Faraz618)
 - 🧪 **Hackathons:** [lablab.ai/u/@Faraz_Mubeen](https://lablab.ai/u/@Faraz_Mubeen)
 - ✍️ **Writing:** [medium.com/@farazmubeenhaider902](https://medium.com/@farazmubeenhaider902)
-* **Email:** [faraz.outreach8@gmail.com](mailto:faraz.outreach8@gmail.com)
-* **LinkedIn:** [Faraz Mubeen Haider](https://www.linkedin.com/in/farazmubeenhaider/)
-* **GitHub:** [Faraz6180](https://github.com/Faraz6180)
-* **Hugging Face:** [Faraz618](https://huggingface.co/Faraz618)
-* **LabLab:** [Projects and hackathons](https://lablab.ai/u/@Faraz_Mubeen)
+
 * **Medium:** [Technical writing](https://medium.com/@farazmubeenhaider902)
 
 <div align="center">
