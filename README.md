@@ -299,10 +299,6 @@ I'm open to conversations about backend engineering, Python, data systems, appli
 <div align="center">
 <i>Currently open to remote Applied AI / LLM / GenAI Engineer roles.</i>
 
----
-
-*Build carefully. Verify honestly. Document what matters.*
-
 </div>
 
 <div align="center">
