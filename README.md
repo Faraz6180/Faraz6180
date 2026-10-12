@@ -1,5 +1,4 @@
-
-
+<div align="center">
  <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:101827,50:1e3a5f,100:2563eb\&height=190\&section=header\&text=Faraz%20Mubeen%20Haider\&fontColor=ffffff\&fontSize=42\&fontAlignY=38\&desc=Software%20Engineering%20%7C%20Backend%20%7C%20Data%20Systems%20%7C%20Applied%20AI\&descSize=15\&descAlignY=60)
@@ -9,20 +8,18 @@
 ### Software Engineer building Python backend systems, data workflows, and AI-enabled applications.
 
 ### Applied AI Engineer — I build LLM systems, ship them to production, and make sure they don't hallucinate.
-
 I care about what happens beyond the happy path: correctness, failure handling, reproducibility, and maintainable software.
 
-[![Live Demos](https://img.shields.io/badge/🤗_Live_Demos-8_deployed-yellow?style=for-the-badge)](https://huggingface.co/Faraz618)
+[![Live Demos on Hugging Face](https://img.shields.io/badge/🤗_Live_Demos-8_deployed-yellow?style=for-the-badge)](https://huggingface.co/Faraz618)
 [![IBM Granite Winner](https://img.shields.io/badge/🏆_IBM_Granite_Hackathon-Winner-blue?style=for-the-badge)](https://lablab.ai/ai-hackathons/generative-ai-hackathon-with-ibm-granite/polyens)
 [![Stanford Code in Place](https://img.shields.io/badge/Stanford_Code_in_Place-Section_Leader-red?style=for-the-badge&logo=stanford)](https://codeinplace.stanford.edu/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github)](https://github.com/Faraz6180)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farazmubeenhaider/)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Applications-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/Faraz618)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farazmubeenhaider)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square\&logo=github)](https://github.com/Faraz6180)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/farazmubeenhaider/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Applications-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)](https://huggingface.co/Faraz618)
 [![LabLab](https://img.shields.io/badge/LabLab-Projects-6C47FF?style=flat-square)](https://lablab.ai/u/@Faraz_Mubeen)
 
 </div>
-
 ---
 
 ## 👋 About Me
