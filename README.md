@@ -60,7 +60,7 @@ I'm an **Applied AI Engineer** focused on shipping LLM-powered systems — **RAG
 
 - 🏆 **IBM Granite Hackathon — Winner** (Team PolyEns, agentic lead-generation)
 - 🚀 **11 AI systems shipped** across **15 international hackathons** in 2024–2026
-- 🎓 **Stanford Code in Place** — Section Leader (selected from 900+ global applicants)
+- 🎓 **2X Stanford Code in Place** — Section Leader 2025 & 2026 (selected from 900+ global applicants )
 - 🔬 **AlgoVerse Research Program** (EOE.ai × Omdena) — 45% merit scholarship, RAG/NLP research
 - 📍 Pakistan · Open to **remote AI Engineer / GenAI / LLM Engineer** roles
 
