@@ -104,8 +104,9 @@
 - **IBM Granite Generative AI Hackathon — 🏆 Winner** (Team PolyEns, AdvancedLeadsGeneration-AI)
 - **Stanford Code in Place — Section Leader** 2025 & 2026 (1 of 100 from 900+ global applicants)
 - **AlgoVerse Research Program** (EOE.ai × Omdena) — accepted with 45% merit scholarship · RAG/NLP research
+- **BICON Startup Incubation — Selected** (Final Year Project) · [proof](https://lnkd.in/p/dDGRiW2u)
 - **Founder Institute Pakistan** — Cohort 2025 (health-informatics track)
-- **Hackathons:** 15 events · 11 submissions — [full track record on LabLab →](https://lablab.ai/u/@Faraz_Mubeen)
+- **Hackathons:** 16 events · 14 submissions — [full track record on LabLab →](https://lablab.ai/u/@Faraz_Mubeen)
 
 ---
 
