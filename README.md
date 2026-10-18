@@ -25,7 +25,7 @@
 ## ⚡ The Short Version
 
 - 🏆 **IBM Granite Hackathon — Winner** · 🥇 **Harvard CS50x Puzzle Day 2025 — 1st Place (9/9)**
-- 🚀 **11 AI systems shipped** across 15 international hackathons · **8 live Hugging Face demos**
+- 🚀 **13 AI systems shipped** across 17 international hackathons · **8 live Hugging Face demos**
 - 🎓 **2× Stanford Code in Place Section Leader** (1 of 100 from 900+ global applicants)
 - 🔬 **AlgoVerse Research Program** (EOE.ai × Omdena) — 45% merit scholarship, RAG/NLP research
 - 📍 Pakistan · Open to remote **AI / GenAI / LLM Engineer** roles
