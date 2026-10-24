@@ -13,12 +13,12 @@
 
 [![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FFaraz6180&style=flat)](https://rankistan.dev/#Faraz6180)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/farazmubeenhaider/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fm61/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Faraz6180)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/Faraz618)
 [![LabLab](https://img.shields.io/badge/LabLab-6C47FF?style=flat-square)](https://lablab.ai/u/@Faraz_Mubeen)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium)](https://medium.com/@farazmubeenhaider902)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@faraz-mubeen-haider)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium)](https://medium.com/@farazmubeen902)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@FARAZHere)
 
 </div>
 
@@ -156,12 +156,13 @@
 
 Open to **Applied AI, LLM, Python backend, and AI application engineering opportunities**, as well as open-source collaboration and discussions about RAG, agents, and evaluation.
 
+- 📍 **Location:** Pakistan
 - 📧 **Email:** [faraz.outreach8@gmail.com](mailto:faraz.outreach8@gmail.com)
-- 💼 **LinkedIn:** [farazmubeenhaider](https://linkedin.com/in/farazmubeenhaider)
+- 💼 **LinkedIn:** [fm61](https://www.linkedin.com/in/fm61/)
 - 🤗 **Hugging Face:** [Faraz618](https://huggingface.co/Faraz618)
 - 🧪 **Hackathons:** [LabLab](https://lablab.ai/u/@Faraz_Mubeen)
-- ✍️ **Writing:** [Medium](https://medium.com/@farazmubeenhaider902)
-- ▶️ **YouTube:** [Faraz Mubeen Haider](https://youtube.com/@faraz-mubeen-haider)
+- ✍️ **Writing:** [Medium](https://medium.com/@farazmubeen902)
+- ▶️ **YouTube:** [FARAZHere](https://www.youtube.com/@FARAZHere)
 
 <div align="center">
 
