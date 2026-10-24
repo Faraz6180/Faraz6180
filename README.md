@@ -19,6 +19,7 @@
 [![LabLab](https://img.shields.io/badge/LabLab-6C47FF?style=flat-square)](https://lablab.ai/u/@Faraz_Mubeen)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium)](https://medium.com/@farazmubeen902)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@FARAZHere)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:faraz.outreach8@gmail.com)
 
 </div>
 
@@ -156,13 +157,40 @@
 
 Open to **Applied AI, LLM, Python backend, and AI application engineering opportunities**, as well as open-source collaboration and discussions about RAG, agents, and evaluation.
 
-- 📍 **Location:** Pakistan
-- 📧 **Email:** [faraz.outreach8@gmail.com](mailto:faraz.outreach8@gmail.com)
-- 💼 **LinkedIn:** [fm61](https://www.linkedin.com/in/fm61/)
-- 🤗 **Hugging Face:** [Faraz618](https://huggingface.co/Faraz618)
-- 🧪 **Hackathons:** [LabLab](https://lablab.ai/u/@Faraz_Mubeen)
-- ✍️ **Writing:** [Medium](https://medium.com/@farazmubeen902)
-- ▶️ **YouTube:** [FARAZHere](https://www.youtube.com/@FARAZHere)
+<table>
+  <tr>
+    <td align="center" width="40"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" height="22" alt="Email" /></td>
+    <td><b>Email</b></td>
+    <td><a href="mailto:faraz.outreach8@gmail.com">faraz.outreach8@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td align="center" width="40"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22" height="22" alt="LinkedIn" /></td>
+    <td><b>LinkedIn</b></td>
+    <td><a href="https://www.linkedin.com/in/fm61/">in/fm61</a></td>
+  </tr>
+  <tr>
+    <td align="center" width="40"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="22" height="22" alt="YouTube" /></td>
+    <td><b>YouTube</b></td>
+    <td><a href="https://www.youtube.com/@FARAZHere">@FARAZHere</a></td>
+  </tr>
+  <tr>
+    <td align="center" width="40"><img src="https://cdn.simpleicons.org/medium/808080" width="22" height="22" alt="Medium" /></td>
+    <td><b>Medium</b></td>
+    <td><a href="https://medium.com/@farazmubeen902">@farazmubeen902</a></td>
+  </tr>
+  <tr>
+    <td align="center" width="40"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="22" height="22" alt="Hugging Face" /></td>
+    <td><b>Hugging Face</b></td>
+    <td><a href="https://huggingface.co/Faraz618">Faraz618</a></td>
+  </tr>
+  <tr>
+    <td align="center" width="40">🧪</td>
+    <td><b>LabLab</b></td>
+    <td><a href="https://lablab.ai/u/@Faraz_Mubeen">@Faraz_Mubeen</a></td>
+  </tr>
+</table>
+
+📍 Based in **Pakistan** · open to remote roles
 
 <div align="center">
 
