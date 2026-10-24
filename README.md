@@ -18,7 +18,7 @@
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/Faraz618)
 [![LabLab](https://img.shields.io/badge/LabLab-6C47FF?style=flat-square)](https://lablab.ai/u/@Faraz_Mubeen)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium)](https://medium.com/@farazmubeenhaider902)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Faraz-Mubeen-Haider)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@faraz-mubeen-haider)
 
 </div>
 
@@ -161,7 +161,7 @@ Open to **Applied AI, LLM, Python backend, and AI application engineering opport
 - 🤗 **Hugging Face:** [Faraz618](https://huggingface.co/Faraz618)
 - 🧪 **Hackathons:** [LabLab](https://lablab.ai/u/@Faraz_Mubeen)
 - ✍️ **Writing:** [Medium](https://medium.com/@farazmubeenhaider902)
-- ▶️ **YouTube:** [Faraz Mubeen Haider](https://www.youtube.com/@Faraz-Mubeen-Haider)
+- ▶️ **YouTube:** [Faraz Mubeen Haider](https://youtube.com/@faraz-mubeen-haider)
 
 <div align="center">
 
