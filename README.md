@@ -157,40 +157,7 @@
 
 Open to **Applied AI, LLM, Python backend, and AI application engineering opportunities**, as well as open-source collaboration and discussions about RAG, agents, and evaluation.
 
-<table>
-  <tr>
-    <td align="center" width="40"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" height="22" alt="Email" /></td>
-    <td><b>Email</b></td>
-    <td><a href="mailto:faraz.outreach8@gmail.com">faraz.outreach8@gmail.com</a></td>
-  </tr>
-  <tr>
-    <td align="center" width="40"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22" height="22" alt="LinkedIn" /></td>
-    <td><b>LinkedIn</b></td>
-    <td><a href="https://www.linkedin.com/in/fm61/">in/fm61</a></td>
-  </tr>
-  <tr>
-    <td align="center" width="40"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="22" height="22" alt="YouTube" /></td>
-    <td><b>YouTube</b></td>
-    <td><a href="https://www.youtube.com/@FARAZHere">@FARAZHere</a></td>
-  </tr>
-  <tr>
-    <td align="center" width="40"><img src="https://cdn.simpleicons.org/medium/808080" width="22" height="22" alt="Medium" /></td>
-    <td><b>Medium</b></td>
-    <td><a href="https://medium.com/@farazmubeen902">@farazmubeen902</a></td>
-  </tr>
-  <tr>
-    <td align="center" width="40"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="22" height="22" alt="Hugging Face" /></td>
-    <td><b>Hugging Face</b></td>
-    <td><a href="https://huggingface.co/Faraz618">Faraz618</a></td>
-  </tr>
-  <tr>
-    <td align="center" width="40">🧪</td>
-    <td><b>LabLab</b></td>
-    <td><a href="https://lablab.ai/u/@Faraz_Mubeen">@Faraz_Mubeen</a></td>
-  </tr>
-</table>
-
-📍 Based in **Pakistan** · open to remote roles
+📧 **[faraz.outreach8@gmail.com](mailto:faraz.outreach8@gmail.com)** · more links in the profile sidebar
 
 <div align="center">
 
